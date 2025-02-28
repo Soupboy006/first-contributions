@@ -341,6 +341,8 @@ Sugan
 - [Bhavishya Chaturvedi](https://github.com/Bhavishya-Chaturvedi)
 - [Gagan](https://github.com/gagan-j)
 - [Brenda Ida]()
+- *Soupboy*[Yes i did it!](https://github.com/Soupboy006)
+
 - [Psammy](https://github.com/Psamm-y/) -[Jai Prashanth](https://github.com/Jai-karthi)
 - [Marcus Black](https://github.com/Marcus-Black) Ready to start this new software journey!
 - [Lucas Manuel Alface](https://github.com/Lucasmanuelmz)
